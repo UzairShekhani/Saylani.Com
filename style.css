@@ -1,0 +1,205 @@
+body{
+    margin: 0;
+    padding: 0;
+    font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, 'Open Sans', 'Helvetica Neue', sans-serif;
+}
+
+.A{
+    background-color: #2755E9;
+    height: 10px auto;
+    width: 1349px;
+    position: static;
+    float: left;    
+}
+
+.B{
+    display: inline-block;
+    width: 400px;
+    background-color: #2755E9;
+}
+
+.C{
+    display: inline-block;
+    width: 600px;
+    color: aliceblue;
+}
+
+.D{
+    display: inline-block;
+}
+
+.nav{
+    background-color:#F7F8FA;
+    width: 100%;
+    position:static;
+    top: 150;
+    left: 0;
+    right: 0;
+    z-index: 1; 
+    overflow: hidden;
+}
+
+#nav1{    
+    display: inline-block;
+    margin-right:334px;
+    margin-left:40px
+}
+
+#nav2{
+    display: inline-block;
+    padding-left:40px;
+    padding-bottom:10px;    
+}
+
+.F{
+    margin-top: 10px;
+    margin-bottom: 30px;
+    margin-left: 100px;
+    margin-right: 120px;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    background-color: #2755E9 ;
+    color: aliceblue
+}
+
+.G{
+    font-size: 17px;
+    color: gray;
+    text-indent: 5px;
+    font-family: 'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;    
+    cursor: auto;
+    text-align: justify;
+    margin-right: 175px;
+    margin-left: 175px;
+}
+
+.intro,.I,.L,.M{
+    text-align: center;
+}
+
+.H{
+    color: white;
+    background-color: #2755E9 ;
+    display: flex;
+    flex-direction: row;
+    justify-content: space-around;
+}
+
+.h1{
+    margin-left: 90px;
+    margin-top: 10px;
+}
+
+.h1a{
+    margin-left: 60px;
+}
+
+.h2{
+    margin-left: 80px;
+    margin-top: 10px;
+}
+
+.h2a{
+    margin-left: 60px;
+}
+
+.h3{
+    margin-left: 50px;
+    margin-top: 10px;
+}
+
+.h3a{
+    margin-left: 30px;
+}
+
+.h4{
+    margin-left: 70px;
+    margin-top: 10px;
+}
+
+.h4a{
+    margin-left: 40px;
+}
+
+.wwrd {
+    width: 50%;
+    margin: auto;
+    border-spacing: 30px;
+}
+
+#doin{
+    padding:20px 60px 20px 60px;
+    font-weight: bolder;
+    color: #2755E9;
+    min-width: 230px;
+    background-color: white;
+    box-shadow: 0 0 13px gray
+}
+
+.I{
+    background-color:#F7F8FA;
+}
+#j1:hover{
+    background-color:lightgrey;
+  }
+
+#doin>img {
+    width: 30%;
+}
+
+.J{
+    padding: 0 100px 0 110px;
+    float: left;
+}
+
+.mis{
+    border-spacing: 20px;
+    margin-left: -15px;
+    display: inline-block;
+}
+
+#j1{
+    background-color: #F7F8FA;
+    border: 1px solid gray;
+    font-weight: bolder;
+    padding: 10px 60px 10px 40px;
+}
+
+#j2{
+    color: #2755E9;
+    display: inline-block;
+    padding-left: 70px;
+    vertical-align: middle;
+}
+
+#m1,#m2,#m3,#m4,#m5{
+    display: inline-block;
+
+}
+
+.f1{
+    background-color:#25272E;
+    color: white;
+    column-width: 40px;
+    height: 300px;
+    width: 1349px;
+}
+
+.f1a{
+    display: inline-block;
+    margin-left: 10px;
+    width: 500px;
+    padding-top: 20px;
+}
+
+.toofer{
+    background-color: royalblue;
+    color: white;
+    padding-left: 70px;
+    padding-top: 20px;
+    height: 50px;    
+}
+
+.colap{
+    border-collapse: collapse;
+}
+
